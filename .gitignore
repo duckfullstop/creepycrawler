@@ -1,0 +1,11 @@
+.DS_Store
+
+# IntelliJ IDEA
+.idea/
+
+# go dep
+vendor/
+
+# Main binary
+
+creepycrawler
